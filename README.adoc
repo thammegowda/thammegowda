@@ -1,4 +1,10 @@
-== Hi there 👋
+image::https://stackexchange.com/users/flair/1632148.png[float="right",align="center", link="https://stackexchange.com/users/1632148/thamme-gowda?tab=accounts"]
+image:https://github-readme-stats.vercel.app/api/top-langs/?username=thammegowda&langs_count=5[250,250,float="left",link="https://github.com/thammegowda/"]
+image:https://github-readme-stats.vercel.app/api?username=thammegowda&count_private=true[400,600, float="right", link="https://github.com/thammegowda/"]
+
+
+
+= Hi there
 
 - 🔭 I’m currently working on neural machine translation, imbalanced learning
 - 🌱 I’m currently learning ... how do write a good dissertation!
@@ -8,3 +14,4 @@
 - 📫 How to reach me: https://twitter.com[@thammegowda]
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
+
