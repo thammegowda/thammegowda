@@ -1,6 +1,5 @@
 image::https://stackexchange.com/users/flair/1632148.png[float="right",align="center", link="https://stackexchange.com/users/1632148/thamme-gowda?tab=accounts"]
 
----
 
 - 🔭 I’m currently working on neural machine translation, imbalanced learning
 - 🌱 I’m currently learning ... how do write a good dissertation!
