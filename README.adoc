@@ -10,3 +10,107 @@ image::https://stackexchange.com/users/flair/1632148.png[float="right",align="ce
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
 
+
+=== Tools 
+
+- link:https://github.com/thammegowda/mtdata[mtdata]
+- link:https://github.com/isi-nlp/rtg[RTG]
+- link:https://github.com/isi-nlp/nlcodec[nlcodec]
+- link:https://github.com/thammegowda/awkg[awkg]
+
+
+== Research 
+
+|===
+| Repo | Description | Status | Published 
+
+| https://github.com/thammegowda/016-many-eng-v2[016-many-eng-v2]
+| Many-to-English (v2) 
+| WIP 
+|
+
+| https://github.com/thammegowda/015-nmt-ablation[015-nmt-ablation ] 
+| Transformer ablation, showing that model can work without encoder.
+| Complete
+| 
+
+| https://github.com/thammegowda/014-udhr-dataset[014-udhr-dataset]
+| Parallel sentence alignment from Universal Declaration of Human Rights corpus
+| WIP/Incomplete
+| 
+
+| https://github.com/thammegowda/013-nmt-robustness[013-nmt-robustness]
+| <Currently under review>
+| Complete
+| Currently under review
+ 
+| https://github.com/thammegowda/012-macrobert[012-macrobert]
+| Macro sampling in BERT
+| Did not work
+| 
+
+| https://github.com/thammegowda/011-imb-learn[011-imb-learn]
+| Imbalanced machine learning: case studies in image recognition, text classification,  and machine translation
+| In complete
+| 
+
+| https://github.com/thammegowda/010-hyperparam-theory[010-hyperparam-theory]
+| A theory on hyperparameter 
+| In complete
+| (This will take more time; want to write a book)
+
+
+| https://github.com/thammegowda/009-nmt-toolkits[009-nmt-toolkits] 
+| A survey of NMT toolkits
+| In complete
+| 
+
+| https://github.com/thammegowda/008-asr-eval-macro[008-asr-eval-macro] 
+| Macro-averaged evaluation for automatic speech recognition
+|  Incomplete 
+| (Some positive results, but needs more evidence)
+
+| https://github.com/thammegowda/007-mt-eval-macro[007-mt-eval-macro]
+| Macro Average: Rare Types are Important Too
+| Complete
+| https://aclanthology.org/2021.naacl-main.90/[NAACL 2021]
+
+| https://github.com/thammegowda/006-many-to-eng[006-many-to-eng]
+| Many-to-English machine translation tools, data, and pretrained models
+| Complete 
+| https://aclanthology.org/2021.acl-demo.37/[ACL21 Demos]. http://rtg.isi.edu/many-eng/[Demo page]
+
+| https://github.com/thammegowda/005-nmt-imbalance[005-nmt-imbalance] 
+|Finding the optimal vocabulary size for neural machine translation
+| Complete 
+| https://aclanthology.org/2020.findings-emnlp.352/[EMNLP 20 Findings]
+
+| https://github.com/thammegowda/005-nmt-imbalance-old[005-nmt-imbalance-old] 
+| Neural machine translation with imbalanced classes 
+| Complete
+| Rejected from *ACL; https://arxiv.org/abs/2004.02334v1[Arxiv link]
+
+| https://github.com/thammegowda/004-nmt-learning-curve[004-nmt-learning-curve]
+| NMT learning curve revisited.
+| Complete 
+| Not published 
+
+| https://github.com/uscdataScience/autoextractor[autoextractor]
+| Clustering webpages based on structure and style similarity
+| Complete
+| https://ieeexplore.ieee.org/abstract/document/7785739[IEEE IRI 2016]
+
+| image-forensics-MFSec17
+| An Approach for Automatic and Large Scale Image Forensics
+| Complete 
+| https://dl.acm.org/doi/abs/10.1145/3078897.3080536[MFSec 2017]
+|===
+
+
+== Other works:
+
+* Sparkler:  https://github.com/USCDataScience/sparkler 
+* Supervising UI: https://github.com/USCDataScience/supervising-ui
+* Parser-Indexer: 
+ ** Java:https://github.com/USCDataScience/parser-indexer
+ ** Python: https://github.com/USCDataScience/parser-indexer-py
