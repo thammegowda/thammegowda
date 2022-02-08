@@ -105,7 +105,7 @@ image::https://stackexchange.com/users/flair/1632148.png[float="right",align="ce
 | Complete 
 | Not published 
 
-| https://github.com/uscdataScience/image-forensics-MFSec17[image-forensics-MFSec17^]
+| https://github.com/thammegowda/image-forensics-MFSec17[image-forensics-MFSec17^]
 | An Approach for Automatic and Large Scale Image Forensics
 | Complete 
 | https://dl.acm.org/doi/abs/10.1145/3078897.3080536[MFSec 2017^]
