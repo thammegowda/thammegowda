@@ -62,7 +62,7 @@ image::https://stackexchange.com/users/flair/1632148.png[float="right",align="ce
 | https://github.com/thammegowda/011-imb-learn[011-imb-learn^]
 | Imbalanced machine learning: case studies in image recognition, text classification,  and machine translation
 | In complete
-| 
+|  https://gowda.ai/011-imb-learn/[Docs^]
 
 | https://github.com/thammegowda/010-hyperparam-theory[010-hyperparam-theory^]
 | A theory on hyperparameter 
