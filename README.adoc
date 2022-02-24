@@ -33,7 +33,7 @@ image::https://stackexchange.com/users/flair/1632148.png[float="right",align="ce
 
 [columns="m,"]
 |===
-| Repo | Description | Status | Published 
+| Repo | Description | Status | Note 
 
 | https://github.com/thammegowda/016-many-eng-v2[016-many-eng-v2^]
 | Many-to-English (v2) 
