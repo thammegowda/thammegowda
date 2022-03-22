@@ -37,7 +37,7 @@ image::https://stackexchange.com/users/flair/1632148.png[float="right",align="ce
 
 | https://github.com/thammegowda/016-many-eng-v2[016-many-eng-v2^]
 | Many-to-English (v2) 
-| WIP⏳
+| Complete✅
 |
 
 | https://github.com/thammegowda/015-nmt-ablation[015-nmt-ablation^] 
@@ -58,7 +58,7 @@ image::https://stackexchange.com/users/flair/1632148.png[float="right",align="ce
 | https://github.com/thammegowda/012-macrobert[012-macrobert^]
 | Macro sampling in BERT
 | Didn't work❌
-| 
+| Maybe we should revisit
 
 | https://github.com/thammegowda/011-imb-learn[011-imb-learn^]
 | Imbalanced machine learning: case studies in image recognition, text classification,  and machine translation
@@ -73,8 +73,8 @@ image::https://stackexchange.com/users/flair/1632148.png[float="right",align="ce
 
 | https://github.com/thammegowda/009-nmt-toolkits[009-nmt-toolkits^] 
 | A survey of NMT toolkits
-| Incomplete◒
-| 
+| Incomplete◒  
+| _Lost interest_
 
 | https://github.com/thammegowda/008-asr-eval-macro[008-asr-eval-macro^] 
 | Macro-averaged evaluation for automatic speech recognition
