@@ -20,7 +20,7 @@ image::https://stackexchange.com/users/flair/1632148.png[float="right",align="ce
 
 - link:https://github.com/thammegowda/mtdata[mtdata^]
 - link:https://github.com/isi-nlp/rtg[RTG^]
-- link:https://github.com/isi-nlp/btoeval[BotEval^]
+- link:https://github.com/isi-nlp/boteval[BotEval^]
 - link:https://github.com/isi-nlp/nlcodec[nlcodec^]
 - link:https://github.com/thammegowda/awkg[awkg^]
 - link:https://github.com/USCDataScience/sparkler[Sparkler^] 
