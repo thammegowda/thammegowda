@@ -17,8 +17,8 @@ image::https://stackexchange.com/users/flair/1632148.png[float="right",align="ce
 
 === Tools 
 
-
 - link:https://github.com/thammegowda/mtdata[mtdata^]
+- link:https://github.com/marian-nmt/sotastream[sotastream^]
 - link:https://github.com/isi-nlp/rtg[RTG^]
 - link:https://github.com/isi-nlp/boteval[BotEval^]
 - link:https://github.com/isi-nlp/nlcodec[nlcodec^]
@@ -35,6 +35,22 @@ image::https://stackexchange.com/users/flair/1632148.png[float="right",align="ce
 [columns="m,"]
 |===
 | Repo | Description | Status | Note 
+
+| https://github.com/isi-nlp/boteval[BotEval^]
+| BotEval
+| Complete✅
+| https://justin-cho.com/assets/boteval/boteval_acl2024.pdf[Paper^];  https://justin-cho.com/boteval[Demos^]
+
+| https://github.com/marian-nmt/wmt23-metrics[Cometoid^]
+| Distilling strong reference based metrics into stronger reference-less metrics 
+| Complete✅
+| https://aclanthology.org/2023.wmt-1.62/[Paper @ WMT2023^]
+
+
+| https://github.com/marian-nmt/sotastream[sotastream^]
+| A streaming approach to machine translation training 
+| Complete✅
+| https://aclanthology.org/2023.nlposs-1.13/[Paper @ NLP OSS 2023^]
 
 | https://github.com/thammegowda/016-many-eng-v2[016-many-eng-v2^]
 | Many-to-English (v2) 
