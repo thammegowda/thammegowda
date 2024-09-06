@@ -12,20 +12,21 @@ image::https://stackexchange.com/users/flair/1632148.png[float="right",align="ce
 - 📫 How to reach me: https://twitter.com[@thammegowda^]
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
-
 |
 
-=== Tools 
+=== Tools
 
-- link:https://github.com/thammegowda/mtdata[mtdata^]
-- link:https://github.com/marian-nmt/sotastream[sotastream^]
-- link:https://github.com/isi-nlp/rtg[RTG^]
-- link:https://github.com/isi-nlp/boteval[BotEval^]
-- link:https://github.com/isi-nlp/nlcodec[nlcodec^]
-- link:https://github.com/thammegowda/awkg[awkg^]
-- link:https://github.com/USCDataScience/sparkler[Sparkler^] 
-- link:https://github.com/USCDataScience/supervising-ui[Supervising UI^]
-- Parser-Indexer: https://github.com/USCDataScience/parser-indexer[Java^] https://github.com/USCDataScience/parser-indexer-py[Python^]
+- link:https://github.com/thammegowda/mtdata[mtdata^], datasets downloader
+- link:https://github.com/marian-nmt/sotastream[sotastream^], streaming approach to training data
+- link:https://github.com/isi-nlp/rtg[RTG^], NMT toolkit
+- link:https://github.com/isi-nlp/boteval[BotEval^], chatbot eval
+- link:https://github.com/isi-nlp/nlcodec[nlcodec^], vocabulary manager
+- link:https://github.com/thammegowda/awkg[awkg^], pythonic awk
+- link:https://github.com/USCDataScience/sparkler[Sparkler^], a webcrawler on Apache Spark
+- Parser-Indexer: https://github.com/USCDataScience/parser-indexer[Java^], https://github.com/USCDataScience/parser-indexer-py[Python^]
+- Web apps (I wasn't trying to be a web dev):
+  * link:https://github.com/USCDataScience/supervising-ui[Supervising UI^], for image labeling
+  * link:https://github.com/thammegowda/nllb-serve[NLLB Serve^], an MT webapp to serve huggingface models
 
 |=== 
 
