@@ -36,21 +36,27 @@ image::https://stackexchange.com/users/flair/1632148.png[float="right",align="ce
 |===
 | Repo | Description | Status | Note 
 
-| https://github.com/isi-nlp/boteval[BotEval^]
-| BotEval
+| https://github.com/marian-nmt/marian-dev/tree/master/src/python[PyMarian^]
+| Python bindings to Marian C++; `pip install pymarian`
 | Complete✅
-| https://justin-cho.com/assets/boteval/boteval_acl2024.pdf[Paper^];  https://justin-cho.com/boteval[Demos^]
+| https://arxiv.org/abs/2408.11853[Paper^]; https://pypi.org/project/pymarian[PyPI^]
+
+
+| https://github.com/isi-nlp/boteval[BotEval^]
+| Facilitating human evaluation of chatbots; `pip install boteval`
+| Complete✅
+| https://aclanthology.org/2024.acl-demos.11/[Paper @ ACL2024 Demos^];  https://justin-cho.com/boteval[Demos^]; https://pypi.org/project/boteval[PyPI^]
 
 | https://github.com/marian-nmt/wmt23-metrics[Cometoid^]
 | Distilling strong reference based metrics into stronger reference-less metrics 
 | Complete✅
-| https://aclanthology.org/2023.wmt-1.62/[Paper @ WMT2023^]
+| https://aclanthology.org/2023.wmt-1.62/[Paper @ WMT2023^]; https://huggingface.co/collections/marian-nmt/cometoid-wmt23-metrics-66903bb137eadb9c5768d5f2[Models on Huggingface^] 
 
 
 | https://github.com/marian-nmt/sotastream[sotastream^]
-| A streaming approach to machine translation training 
+| A streaming approach to machine translation training. `pip install sotastream`
 | Complete✅
-| https://aclanthology.org/2023.nlposs-1.13/[Paper @ NLP OSS 2023^]
+| https://aclanthology.org/2023.nlposs-1.13/[Paper @ NLP OSS 2023^] ; https://pypi.org/project/sotastream[PyPI^]
 
 | https://github.com/thammegowda/016-many-eng-v2[016-many-eng-v2^]
 | Many-to-English (v2) 
