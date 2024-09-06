@@ -32,6 +32,8 @@ image::https://stackexchange.com/users/flair/1632148.png[float="right",align="ce
 
 == Research 
 
+https://scholar.google.com/citations?hl=en&user=7Ed3-tMAAAAJ&view_op=list_works&sortby=pubdate[__See my latest publications on Google Scholar__^]
+
 [columns="m,"]
 |===
 | Repo | Description | Status | Note 
