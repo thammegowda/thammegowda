@@ -18,7 +18,8 @@ image::https://stackexchange.com/users/flair/1632148.png[float="right",align="ce
 
 - link:https://github.com/thammegowda/mtdata[mtdata^], datasets downloader
 - link:https://github.com/marian-nmt/sotastream[sotastream^], streaming approach to training data
-- link:https://github.com/isi-nlp/rtg[RTG^], NMT toolkit
+- link:https://github.com/isi-nlp/rtg[RTG^], NMT toolkit based on pytorch
+  * link:https://github.com/thammegowda/tahoma[Tahoma^]: Reimplementation in C++ [WIP] 
 - link:https://github.com/isi-nlp/boteval[BotEval^], chatbot eval
 - link:https://github.com/isi-nlp/nlcodec[nlcodec^], vocabulary manager
 - link:https://github.com/thammegowda/awkg[awkg^], pythonic awk
